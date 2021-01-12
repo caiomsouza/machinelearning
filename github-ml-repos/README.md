@@ -28,4 +28,4 @@ List of Machine Learning GitHub Repos.
 | rnoaa is an R interface to many NOAA data sources | [Repo Link](https://github.com/ropensci/rnoaa)| 
 | Repository for Auto-WEKA, wich provides automatic selection of models and hyperparameters for WEKA. | [Repo Link](https://github.com/automl/autoweka)| 
 | Scikit-learn benchmarks | [Repo Link](https://github.com/rhiever/sklearn-benchmarks)| 
-
+| fastai simplifies training fast and accurate neural nets using modern best practices | [Repo Link](https://github.com/fastai/fastai)| 
