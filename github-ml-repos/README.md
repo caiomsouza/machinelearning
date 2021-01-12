@@ -24,5 +24,5 @@ List of Machine Learning GitHub Repos.
 | CC6205 - Natural Language Processing | [Repo Link](https://github.com/dccuchile/CC6205/)| 
 | mlrMBO - Model-based optimization | [Repo Link](https://github.com/mlr-org/mlrMBO)| 
 | auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator. | [Repo Link](https://github.com/automl/auto-sklearn)| 
-
+| MOA (Massive Online Analysis) | [Repo Link](https://github.com/Waikato/moa)| 
 
