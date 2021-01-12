@@ -35,6 +35,7 @@ List of Machine Learning GitHub Repos.
 | eXtreme Gradient Boosting | [Repo Link](https://github.com/dmlc/xgboost)|
 | Awesome Big Data | [Repo Link](https://github.com/onurakpolat/awesome-bigdata)|
 | Awesome Machine Learning | [Repo Link](https://github.com/josephmisiti/awesome-machine-learning)|
+| Awesome Python | [Repo Link](https://github.com/vinta/awesome-python)|
 | Python AutoWeka | [Repo Link](https://github.com/tdomhan/pyautoweka)|
 
 
