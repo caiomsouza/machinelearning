@@ -11,7 +11,7 @@ Machine Learning
 | MLOps with Azure ML | [Repo Link](https://github.com/MicrosoftDocs/mslearn-aml-labs) |
 | State-of-the-art Natural Language Processing for PyTorch and TensorFlow 2.0 | [Repo Link](https://github.com/huggingface/transformers) |
 | NLP Best Practices | [Repo Link](https://github.com/microsoft/nlp-recipes) |
-
+| Knowledge Mining Solution Accelerator | [Repo Link](https://github.com/Azure-Samples/azure-search-knowledge-mining) |
 
 
 
