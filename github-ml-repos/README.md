@@ -31,10 +31,12 @@ List of Machine Learning GitHub Repos.
 | Scikit-learn benchmarks | [Repo Link](https://github.com/rhiever/sklearn-benchmarks)| 
 | fastai simplifies training fast and accurate neural nets using modern best practices | [Repo Link](https://github.com/fastai/fastai)| 
 | Awesome Computer Vision | [Repo Link](https://github.com/jbhuang0604/awesome-computer-vision)|
-
+| Free and open source face recognition with deep neural networks. | [Repo Link](https://github.com/cmusatyalab/openface)|
 
 ### Books 
 | Book | URL |
 | ------------- |:-------------:|
 | Python Machine Learning book code repository | [Repo Link](https://github.com/rasbt/python-machine-learning-book)| 
+| data-science-ipython-notebooks | [Repo Link](https://github.com/donnemartin/data-science-ipython-notebooks#data-science-ipython-notebooks)|
+
 
