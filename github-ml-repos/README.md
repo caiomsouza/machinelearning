@@ -32,6 +32,9 @@ List of Machine Learning GitHub Repos.
 | fastai simplifies training fast and accurate neural nets using modern best practices | [Repo Link](https://github.com/fastai/fastai)| 
 | Awesome Computer Vision | [Repo Link](https://github.com/jbhuang0604/awesome-computer-vision)|
 | Free and open source face recognition with deep neural networks. | [Repo Link](https://github.com/cmusatyalab/openface)|
+| eXtreme Gradient Boosting | [Repo Link](https://github.com/dmlc/xgboost)|
+
+
 
 ### Books 
 | Book | URL |
