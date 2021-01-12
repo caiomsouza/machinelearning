@@ -26,4 +26,4 @@ List of Machine Learning GitHub Repos.
 | auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator. | [Repo Link](https://github.com/automl/auto-sklearn)| 
 | MOA (Massive Online Analysis) | [Repo Link](https://github.com/Waikato/moa)| 
 | rnoaa is an R interface to many NOAA data sources | [Repo Link](https://github.com/ropensci/rnoaa)| 
-
+| Repository for Auto-WEKA, wich provides automatic selection of models and hyperparameters for WEKA. | [Repo Link](https://github.com/automl/autoweka)| 
