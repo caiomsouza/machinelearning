@@ -36,6 +36,7 @@ List of Machine Learning GitHub Repos.
 | Awesome Big Data | [Repo Link](https://github.com/onurakpolat/awesome-bigdata)|
 | Awesome Machine Learning | [Repo Link](https://github.com/josephmisiti/awesome-machine-learning)|
 | Awesome Python | [Repo Link](https://github.com/vinta/awesome-python)|
+| Awesome Recurrent Neural Networks | [Repo Link](https://github.com/kjw0612/awesome-rnn) |
 | Python AutoWeka | [Repo Link](https://github.com/tdomhan/pyautoweka)|
 | Harvard CS109 Data Science | [Repo Link](https://github.com/cs109/content)|
 | The Open Source Data Science Masters | [Repo Link](https://github.com/datasciencemasters/go)|
