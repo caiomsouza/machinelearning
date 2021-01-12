@@ -34,7 +34,10 @@ List of Machine Learning GitHub Repos.
 | Free and open source face recognition with deep neural networks. | [Repo Link](https://github.com/cmusatyalab/openface)|
 | eXtreme Gradient Boosting | [Repo Link](https://github.com/dmlc/xgboost)|
 | Awesome Big Data | [Repo Link](https://github.com/onurakpolat/awesome-bigdata)|
+| Awesome Machine Learning | [Repo Link](https://github.com/josephmisiti/awesome-machine-learning)|
 | Python AutoWeka | [Repo Link](https://github.com/tdomhan/pyautoweka)|
+
+
 
 
 ### Books 
