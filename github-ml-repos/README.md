@@ -33,7 +33,7 @@ List of Machine Learning GitHub Repos.
 | Awesome Computer Vision | [Repo Link](https://github.com/jbhuang0604/awesome-computer-vision)|
 | Free and open source face recognition with deep neural networks. | [Repo Link](https://github.com/cmusatyalab/openface)|
 | eXtreme Gradient Boosting | [Repo Link](https://github.com/dmlc/xgboost)|
-
+| Hivemall: Hive scalable machine learning library | [Repo Link](https://github.com/dmlc/xgboost)|
 
 
 ### Books 
@@ -41,5 +41,4 @@ List of Machine Learning GitHub Repos.
 | ------------- |:-------------:|
 | Python Machine Learning book code repository | [Repo Link](https://github.com/rasbt/python-machine-learning-book)| 
 | data-science-ipython-notebooks | [Repo Link](https://github.com/donnemartin/data-science-ipython-notebooks#data-science-ipython-notebooks)|
-
-
+| Code for Machine Learning for Hackers | [Repo Link](https://github.com/johnmyleswhite/ML_for_Hackers)|
