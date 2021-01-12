@@ -22,5 +22,8 @@ List of Machine Learning GitHub Repos.
 | ------------- |:-------------:|
 | AffectiveTweets is a WEKA package for analyzing emotion and sentiment of English written tweets | [Repo Link](https://github.com/felipebravom/AffectiveTweets)| 
 | CC6205 - Natural Language Processing | [Repo Link](https://github.com/dccuchile/CC6205/)| 
+| mlrMBO - Model-based optimization | [Repo Link](https://github.com/mlr-org/mlrMBO)| 
+
+
 
 
