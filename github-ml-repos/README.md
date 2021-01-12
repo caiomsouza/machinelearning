@@ -3,7 +3,7 @@ List of Machine Learning GitHub Repos.
 
 
 
-### GitHub.com ML Repos 
+### GitHub.com Azure ML Repos 
 | GitHub Repo Name | URL |
 | ------------- |:-------------:|
 | Azure Machine Learning service example notebooks | [Repo Link](https://github.com/microsoft/MLOpsPython)| 
@@ -17,5 +17,7 @@ List of Machine Learning GitHub Repos.
 
 
 
-
-
+### GitHub.com ML Repos 
+| GitHub Repo Name | URL |
+| ------------- |:-------------:|
+| AffectiveTweets is a WEKA package for analyzing emotion and sentiment of English written tweets | [Repo Link](https://github.com/felipebravom/AffectiveTweets)| 
