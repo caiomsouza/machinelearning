@@ -1,6 +1,13 @@
 # machinelearning
 Machine Learning
 
+### GitHub Repos 
+| Link description | URL |
+| ------------- |:-------------:|
+| GitHub.com Azure ML Repos | [Link](https://github.com/caiomsouza/machinelearning/tree/main/github-ml-repos#githubcom-azure-ml-repos)| 
+| GitHub.com ML Repos | [Link](https://github.com/caiomsouza/machinelearning/tree/main/github-ml-repos#githubcom-ml-repos)| 
+| Books | [Link](https://github.com/caiomsouza/machinelearning/tree/main/github-ml-repos#books)| 
+
 
 ### Video 
 | Video | URL |
