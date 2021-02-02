@@ -15,6 +15,7 @@ List of Machine Learning GitHub Repos.
 | Knowledge Mining Solution Accelerator | [Repo Link](https://github.com/Azure-Samples/azure-search-knowledge-mining) |
 | Microsoft Data & AI Technical Bootcamp | [Repo Link](https://github.com/solliancenet/data-ai-technical-bootcamp) |
 | Azure Data Factory (ADF) Lab | [Repo Link](https://github.com/kromerm/adflab) |
+| Quantum Machine Learning | [Repo Link](https://github.com/caiomsouza/QuantumMachineLearning) |
 
 
 
