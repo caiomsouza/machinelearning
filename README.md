@@ -16,3 +16,4 @@ This repo will provide you resources related to Machine Learning.
 | Azure Friday - How to execute Azure Machine Learning service pipelines in Azure Data Factory | [Video Link](https://www.youtube.com/watch?v=9i8yJDpEKhQ)| 
 | How to become an Azure Data Scientist | [Video Link](https://www.youtube.com/watch?v=iYBKTkDBB8g)| 
 | How to prepare for Azure AI Engineer, Azure Data Scientist and Azure Data Engineer certifications? | [Video Link](https://www.youtube.com/watch?v=Xv9spsi7eMc)|
+| Get Started with Azure Machine Learning | [Video Link](https://www.youtube.com/watch?v=GBDSBInvz08)|
