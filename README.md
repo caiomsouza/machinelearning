@@ -1,5 +1,6 @@
-# machinelearning
-Machine Learning
+# Machine Learning
+
+This repo will provide you resources related to Machine Learning.
 
 ### GitHub Repos 
 | Link description | URL |
