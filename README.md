@@ -17,3 +17,4 @@ This repo will provide you resources related to Machine Learning.
 | How to become an Azure Data Scientist | [Video Link](https://www.youtube.com/watch?v=iYBKTkDBB8g)| 
 | How to prepare for Azure AI Engineer, Azure Data Scientist and Azure Data Engineer certifications? | [Video Link](https://www.youtube.com/watch?v=Xv9spsi7eMc)|
 | Get Started with Azure Machine Learning | [Video Link](https://www.youtube.com/watch?v=GBDSBInvz08)|
+| What is Azure Machine Learning service and how data scientists use it | [Video Link](https://www.youtube.com/watch?v=X7GR4ANn45s)|
